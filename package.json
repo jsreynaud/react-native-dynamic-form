@@ -23,7 +23,7 @@
     "react-native-date-ranges": "^2.5.0",
     "react-native-datepicker": "^1.7.2",
     "react-native-material-ui": "^1.22.3",
-    "react-native-multiple-select": "git+https://github.com/numinolabspvt/react-native-multiple-select.git",
+    "react-native-multiple-select": "^0.5.11",
     "react-native-star-rating": "^1.0.9",
     "react-native-tag-autocomplete": "git+https://github.com/numinolabspvt/react-native-tag-autocomplete.git"
   },
