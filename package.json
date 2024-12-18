@@ -12,19 +12,21 @@
   },
   "peerDependencies": {
     "react": "^16.3.2",
-    "react-native": "^0.55.4",
-    "react-native-vector-icons": "^4.6.0"
+    "react-native": "^0.55.4"
   },
   "dependencies": {
-    "lodash": "^4.17.10",
-    "moment": "^2.22.1",
-    "prop-types": "^15.6.1",
-    "react-native-calendars": "^1.300.0",
+    "lodash": "^4.17.21",
+    "moment": "^2.30.1",
+    "@react-native-vector-icons/ant-design": "^4.4.2",
+    "@react-native-vector-icons/ionicons": "^7.4.0",
+    "@react-native-vector-icons/material-icons": "^0.0.1",
+    "prop-types": "^15.8.1",
+    "react-native-calendars": "^1.1307.0",
     "react-native-date-ranges": "^2.5.0",
     "react-native-datepicker": "^1.7.2",
-    "react-native-material-ui": "^1.22.3",
-    "react-native-multiple-select": "^0.5.11",
-    "react-native-star-rating": "^1.0.9",
+    "react-native-material-ui": "^1.30.1",
+    "react-native-multiple-select": "^0.5.12",
+    "react-native-star-rating": "^1.1.0",
     "react-native-tag-autocomplete": "git+https://github.com/numinolabspvt/react-native-tag-autocomplete.git"
   },
   "devDependencies": {
